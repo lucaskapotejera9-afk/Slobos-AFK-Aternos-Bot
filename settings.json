@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
+    "ip": "lucastejera.aternos.me:34094",
     "port": 27586,
     "version": "",
     "try-creative": false
